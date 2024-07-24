@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716662092253",
+    "project_id": "assigntodo-c5771",
+    "storage_bucket": "assigntodo-c5771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716662092253:android:3bafd15b0ee0c6d49a4634",
+        "android_client_info": {
+          "package_name": "com.example.assigntodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0CPuuuFSjXXBoEy5ywPkTga4LHTbdd24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
